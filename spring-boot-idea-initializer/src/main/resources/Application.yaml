@@ -1,0 +1,13 @@
+debug: true
+person:
+  lastName: 宁大力
+  age: 20
+  boss: true
+  birth: 2019/7/2
+  maps: {k1: 三妻,k2: 四妾}
+  lists:
+    - 猪猪
+    - pp
+  dog:
+    name: 小狗
+    age: 2
